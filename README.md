@@ -45,6 +45,7 @@
     ├── Cleaned_Quikr_Car_Data.csv
     ├── README.md
     └── quikr_car.csv
+    └── requirements.txt
 ```
 
 ---
